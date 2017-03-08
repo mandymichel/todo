@@ -1,0 +1,6 @@
+2017-02-26		
+clean	i	i
+workout	i	i
+coding	i	i
+cooking	i	i
+
